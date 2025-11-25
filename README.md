@@ -29,7 +29,9 @@
 
 <br>
 
-![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/LucasBedaa/LucasBedaa/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 <br>
 
