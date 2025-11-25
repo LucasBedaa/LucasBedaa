@@ -36,7 +36,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/LucasBedaa/LucasBedaa/raw/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/LucasBedaa/LucasBedaa/raw/output/github-contribution-grid-snake.svg">
   </picture>
-</div> />
+</div> 
 </div>
 
 <br>
