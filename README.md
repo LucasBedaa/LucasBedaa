@@ -34,7 +34,7 @@
 
 <br>
 
-![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasBedaa/LucasBedaa/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
