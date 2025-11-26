@@ -41,8 +41,7 @@
 </div>
 
 <br>
-<div align="center">
-  <h2>Contato</h2>
+
  ### Contato
  
 <div align="center">
