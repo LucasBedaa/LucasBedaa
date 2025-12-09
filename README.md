@@ -9,9 +9,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasBedaa&theme=shadow-red&exclude_days=Sun%2CSat)](https://git.io/streak-stats) deixe azul  
-</div>
-
 <br> 
 
 <div align="center">
