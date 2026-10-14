@@ -14,7 +14,7 @@
 
 Atualmente faço um curso de 2 anos no **CentroWEG** e estou em constante aprendizado para aprimorar minhas habilidades e me tornar um desenvolvedor **Full Stack**. Meu objetivo é criar soluções modernas e eficientes.
 
-- 🎓 Estudante de Engenharia da Computação na **Estácio**
+- 🎓 Estudante de Desenvolvimendo de Sistemas no **Senai**
 - 🚀 Sempre em busca de novos desafios e habilidades
 - 📫 Contato: [timoteolucas665@gmail.com](mailto:timoteolucas665@gmail.com)
 
