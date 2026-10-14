@@ -64,12 +64,4 @@ Atualmente faço um curso de 2 anos no **CentroWEG** e estou em constante aprend
 
 <!-- ================= FOOTER ================= -->
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" alt="Rodapé" /><!-- ================= HEADER ================= -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lucas%20Beda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=58" alt="Banner" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Status-Em%20constante%20aprendizado-E4405F?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-D14836?style=for-the-badge" alt="Foco" />
-  <img src="https://img.shields.io/badge/Local-Santa%20Catarina--Brasil-2ea44f?style=for-the-badge" alt="Local" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" alt="Rodapé" />
