@@ -62,6 +62,11 @@ Atualmente faço um curso de 2 anos no **CentroWEG** e estou em constante aprend
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-beda-tim%C3%B3teo-dos-santos-987a72411/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <!-- ================= FOOTER ================= -->
 <br/>
