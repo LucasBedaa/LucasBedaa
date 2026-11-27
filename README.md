@@ -9,6 +9,15 @@
 </div>
 
 ---
+<div align="center">
+
+<h2>🔥 GitHub Streak</h2>
+
+<img src="https://streak-stats.demolab.com/?user=lucasbedaa&theme=transparent&hide_border=true&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=008CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
+  alt="GitHub Streak" />
+
+</div>
+
 
 ## 👋 Olá! Sou o Lucas Beda
 
@@ -19,14 +28,6 @@ Atualmente faço um curso de 2 anos no **CentroWEG** e estou em constante aprend
 - 📫 Contato: [timoteolucas665@gmail.com](mailto:timoteolucas665@gmail.com)
 
 ---
-<div align="center">
-
-<h2>🔥 GitHub Streak</h2>
-
-<img src="https://streak-stats.demolab.com/?user=lucasbedaa&theme=transparent&hide_border=true&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=008CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
-  alt="GitHub Streak" />
-
-</div>
 
 ## 🛠️ Tecnologias
 
